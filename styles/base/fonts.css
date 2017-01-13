@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,800,300);
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Open Sans', sans-serif;
@@ -9,3 +9,16 @@ h1,h2,h3,h4,h5,h6 {
     text-transform: uppercase;
 
 }
+
+.theTime{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color: #ddd;
+    float: right;
+}
+
+.ampm{
+    color: #f3524a;
+}
+
